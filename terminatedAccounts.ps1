@@ -2,7 +2,7 @@
 You can modify this script and run it from a powershell prompt or from the ISE. 
 
 This Powershell Script will check the Locked Account for Department 
-Move and Terminated Accounts Emails for Qualys Group member ship, based on a static list,
+Move and Terminated Accounts Emails for Qualys Group membership, based on a static list,
 and PCI Group Membership based on current PCI groups in AD. 
 
 --V2 Change--
