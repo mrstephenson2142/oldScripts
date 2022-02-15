@@ -5,6 +5,7 @@ Repo of notes and script samples.
 
 - [Scripts](#oldscripts)
 - [Notes](#notes-and-cheat-sheets)
+- [Other Projects](#other-projects)
 
 # oldScripts
 
@@ -42,3 +43,8 @@ I've also included some cheat sheets I've created while studying memory forensic
 - [Offensive Security Cheat Sheet](notes/offensiveSecurity/offsecCheatSheet.md)
 - [Linux Priv Esc Cheat Sheet](notes/offensiveSecurity/linuxPrivEsc.md)
 - [Windows Priv Esc Cheat Sheet](notes/offensiveSecurity/windowsPrivEsc.md)
+
+# Other Projects
+
+- [Splunk/Sysmon/Atomic Red Team Lab](https://github.com/mrstephenson2142/splunkSysmonLab)
+- [Student Grading Overview (Google Sheets / Bootcamp Spot API)](https://github.com/mrstephenson2142/bcs_student_submissions_overview)
