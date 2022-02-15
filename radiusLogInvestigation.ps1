@@ -1,5 +1,7 @@
 ﻿#Requires -RunAsAdministrator
 
+#Script created for analysts to be able to interact with a script maintained by another department in a more user friendly way. 
+
 param(
     [string]$user = $null # what user are we searching for 
 
