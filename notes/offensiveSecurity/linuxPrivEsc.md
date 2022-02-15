@@ -1,6 +1,5 @@
 
-## Linux
-
+# Linux Privilege Escalation
 
 ### CheckList 
 
