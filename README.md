@@ -21,6 +21,10 @@ There was also a script that went back through old XML files and fixed date form
 
 The effort can also be read about here - <https://www.tandfonline.com/eprint/XTMGJJCUJNJQMGYETYGD/full>
 
+### Excel Office Script 
+
+This script was used to keep track of historical changes month over month in an Excel Web Work Book. A range would be appended to a protected sheet. This was integrated with power automate to automatically lock the state of the tracker the last day of the month.
+
 ### simpleCypher
 
 This script acts as a Vigenere cipher. I was reading a book on encryption and it seemed like a fun thing to code up. 
@@ -28,7 +32,6 @@ This script acts as a Vigenere cipher. I was reading a book on encryption and it
 ### parseSpamEamil 
 
 Attempted to take a pasted email body strip URLs remove the proxy links and test them in Virus Total. 
-
 
 ### radiusLogInvestigation
 
