@@ -1,10 +1,6 @@
 
 ## Linux
 
-### TCM THM Box
-
-- user: `TCM`
-- password `Hacker123`
 
 ### CheckList 
 
