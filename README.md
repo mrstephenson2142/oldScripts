@@ -46,5 +46,5 @@ I've also included some cheat sheets I've created while studying memory forensic
 
 # Other Projects
 
-- [Splunk/Sysmon/Atomic Red Team Lab](https://github.com/mrstephenson2142/splunkSysmonLab)
-- [Student Grading Overview (Google Sheets / Bootcamp Spot API)](https://github.com/mrstephenson2142/bcs_student_submissions_overview)
+- [Splunk/Sysmon/Atomic Red Team Lab (PowerShell & Bash Scripts](https://github.com/mrstephenson2142/splunkSysmonLab)
+- [Student Grading Overview (Google Sheets / Bootcamp Spot API w/ Python)](https://github.com/mrstephenson2142/bcs_student_submissions_overview)
