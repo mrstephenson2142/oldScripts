@@ -49,9 +49,9 @@ I've also included some cheat sheets I've created while studying memory forensic
 - [Splunk/Sysmon/Atomic Red Team Lab (PowerShell & Bash Scripts](https://github.com/mrstephenson2142/splunkSysmonLab)
 - [Student Grading Overview (Google Sheets / Bootcamp Spot API w/ Python)](https://github.com/mrstephenson2142/bcs_student_submissions_overview)
 
-# Presentations I Like
+# Enjoyable Presentations
 
-A list of some of the presentations I like. 
+A short list of some of the presentations I like. 
 
 - [Automating disk and memory evidence collection in AWS](https://www.youtube.com/watch?v=v0nMmKmZ558)
 - [Not my server C2: Using trusted sources for C2](https://www.youtube.com/watch?v=FE_Os3sE8oc)
