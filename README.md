@@ -33,7 +33,7 @@ The effort can also be read about here - <https://www.tandfonline.com/eprint/XTM
 
 ### [Excel Office Script](scripts/excelOfficeScript.ts)
 
-This script was used to keep track of historical changes month over month in an Excel Web Work Book. A range would be appended to a protected sheet. This was integrated with power automate to automatically lock the state of the tracker the last day of the month.
+This script was used to keep track of historical changes month over month in an Excel Web Work Book. A range would be appended to a protected sheet with a calculated month, year, and quarter. This was integrated with power automate to automatically lock the state of the tracker the last day of the month.
 
 # Notes and Cheat Sheets 
 
