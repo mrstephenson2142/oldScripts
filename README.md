@@ -48,3 +48,14 @@ I've also included some cheat sheets I've created while studying memory forensic
 
 - [Splunk/Sysmon/Atomic Red Team Lab (PowerShell & Bash Scripts](https://github.com/mrstephenson2142/splunkSysmonLab)
 - [Student Grading Overview (Google Sheets / Bootcamp Spot API w/ Python)](https://github.com/mrstephenson2142/bcs_student_submissions_overview)
+
+# Presentations I Like
+
+A list of some of the presentations I like. 
+
+- [Automating disk and memory evidence collection in AWS](https://www.youtube.com/watch?v=v0nMmKmZ558)
+- [Not my server C2: Using trusted sources for C2](https://www.youtube.com/watch?v=FE_Os3sE8oc)
+- [Nina Kollars - Confessions of an Nespresso Money Mule - DEF CON 27 Conference](https://www.youtube.com/watch?v=2IT2oAzTcvU&)
+- [DEF CON 22 - Gene Bransfield - Weaponizing Your Pets: The War Kitteh and the Denial of Service Dog](https://www.youtube.com/watch?v=DMNSvHswljM)
+- [DEF CON 23 - Robinson and Mitchell - Knocking my neighbors kids cruddy drone offline](https://www.youtube.com/watch?v=5CzURm7OpAA)
+ 
