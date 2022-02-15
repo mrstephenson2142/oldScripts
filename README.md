@@ -1,7 +1,7 @@
 
 # Summary
 
-Repo of notes and script samples. 
+Repo of projects, various notes and script samples. 
 
 - [Scripts](#oldscripts)
 - [Notes](#notes-and-cheat-sheets)
