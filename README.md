@@ -40,7 +40,7 @@ This script was used to keep track of historical changes month over month in an 
 I've also included some cheat sheets I've created while studying memory forensics and offensive security. 
 
 - [Memory Forensics](notes/memoryDumpForensics.md)
-- [Disk Forensics CTF](./notes/CTF-AfricanFAlls.md)
+- [Disk Forensics CTF](./notes/ctfAfricanFalls.md)
 - [Offensive Security Cheat Sheet](notes/offensiveSecurity/offsecCheatSheet.md)
 - [Linux Priv Esc Cheat Sheet](notes/offensiveSecurity/linuxPrivEsc.md)
 - [Windows Priv Esc Cheat Sheet](notes/offensiveSecurity/windowsPrivEsc.md)
