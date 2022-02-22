@@ -1,10 +1,5 @@
 
-## Linux
-
-### TCM THM Box
-
-- user: `TCM`
-- password `Hacker123`
+# Linux Privilege Escalation
 
 ### CheckList 
 
