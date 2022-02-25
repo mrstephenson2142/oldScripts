@@ -35,6 +35,14 @@ The effort can also be read about here - <https://www.tandfonline.com/eprint/XTM
 
 This script was used to keep track of historical changes month over month in an Excel Web Work Book. A range would be appended to a protected sheet with a calculated month, year, and quarter. This was integrated with power automate to automatically lock the state of the tracker the last day of the month.
 
+### [Create AzureDevOps Tickets from CSV](scripts/createAzureDevOpsTicketsFromCsv.ps1)
+
+Would create tickets in Azure DevOps from crafted CSV file. This sped up common ticket creation.
+
+### [Release Email From Quarantine](scripts/releaseFromQuarantine.ps1)
+
+Allows for the release of emails from quarantine in O365 but passing a list of message ids to the script. 
+
 # Notes and Cheat Sheets 
 
 I've also included some cheat sheets I've created while studying memory forensics and offensive security. 
