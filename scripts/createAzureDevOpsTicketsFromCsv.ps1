@@ -18,7 +18,7 @@
 # 
 # id: This is the EventID   No validation. 
 #
-# ticket: TxDotNow Ticket Number
+# ticket: ServiceNow Ticket Number
 #
 # description: If no descrption is provided title will be used. No validation. 
 #
@@ -37,7 +37,7 @@
 #
 # ## List of Fields
 #
-# https://dev.azure.com/txdot-infosec/csoc/_apis/wit/workitemtypes/analyst/fields?api-version=6.0
+# https://dev.azure.com/infosec/csoc/_apis/wit/workitemtypes/analyst/fields?api-version=6.0
 # 
 #
 
@@ -134,7 +134,7 @@ $WorkItemAlertID = $i.id
 $WorkItemDescription = $i.description
 $WorkItemURL = $i.url
 $WorkItemResolution = $i.resolution
-$WorkItemTxDOTNowTicket = $i.ticket
+$WorkItemServiceNowTicket = $i.ticket
 
 ## Set Default Fields
 
@@ -199,8 +199,8 @@ $body="[
   },
   {
     `"op`": `"add`",
-    `"path`": `"/fields/Custom.TxDOTNowNumber`",
-    `"value`": `"$($WorkItemTxDOTNowTicket)`"
+    `"path`": `"/fields/Custom.ServiceNowNumber`",
+    `"value`": `"$($WorkItemServiceNowTicket)`"
   }
 
 ]"
