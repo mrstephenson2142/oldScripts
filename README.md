@@ -55,6 +55,7 @@ I've also included some cheat sheets I've created while studying memory forensic
 
 # Other Projects
 
+- [VS Code / Splunk Syntax Highlighter](https://github.com/mrstephenson2142/vscode-splunk-search-syntax)
 - [Splunk/Sysmon/Atomic Red Team Lab (PowerShell & Bash Scripts](https://github.com/mrstephenson2142/splunkSysmonLab)
 - [Student Grading Overview (Google Sheets / Bootcamp Spot API w/ Python)](https://github.com/mrstephenson2142/bcs_student_submissions_overview)
 
